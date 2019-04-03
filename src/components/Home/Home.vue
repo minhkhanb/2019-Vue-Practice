@@ -1,5 +1,8 @@
 <template>
   <div id="app">
+    <div class="greenshock">
+      <div class="box" ref="box"></div>
+    </div>
     <div class="container">
       <div style="margin-top: 2rem; padding-bottom: 1rem;">
         <h1>Make Bootstrap Sexy Again</h1>
